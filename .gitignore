@@ -1,0 +1,12 @@
+taichung-station.png
+.ruff_cache/
+main.py
+.config/
+venv/
+.upm/
+.cache/
+poetry.lock
+pyproject.toml
+.replit
+replit.nix
+**/__pycache__
