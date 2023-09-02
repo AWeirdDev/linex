@@ -18,4 +18,4 @@ with console.status("Collecting..."):
         encoding="utf-8"
     ) as f:
         contents = " ".join(f.read().splitlines())
-        os.system(f"pip install {contents} --quiet")
+        os.system(f"pip install {contents} -q -q") # 2 qs for ultra quiet
