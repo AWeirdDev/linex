@@ -9,4 +9,5 @@ pyproject.toml
 .replit
 replit.nix
 .breakpoints
+push.py
 **/__pycache__
