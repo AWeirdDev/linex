@@ -1,18 +1,19 @@
 import os
+
 from ayo import tof
 from rich.console import Console
 
 console = Console()
 
 yn = console.input(
-    "Install [blue]required packages?[/blue] \[Yn] "
+    "Install [blue]required packages?[/blue] \\[Yn] "
 )
 
 if not tof(yn):
     exit(1)
 
-with console.status("Collecting..."):
-    with open(
+with console.status("Collecting..."), \
+    open(
         "requirements.preview.txt", 
         "r", 
         encoding="utf-8"
