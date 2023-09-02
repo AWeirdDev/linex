@@ -1,0 +1,5 @@
+{
+    "bin": "ayo-script.py",
+    "with": ["requirements.preview.txt"],
+    "before-scripts": []
+}
