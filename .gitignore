@@ -8,5 +8,5 @@ poetry.lock
 pyproject.toml
 .replit
 replit.nix
-**/__pycache__
 .breakpoints
+**/__pycache__
