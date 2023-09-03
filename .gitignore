@@ -10,4 +10,5 @@ pyproject.toml
 replit.nix
 .breakpoints
 push.py
+whoami.sh
 **/__pycache__
