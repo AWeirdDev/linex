@@ -1,5 +1,7 @@
 # LineX
 
+[![By Ramptix](https://img.shields.io/badge/%E2%AC%9C%20%E2%94%82%20By%20Ramptix-%23202020?style=for-the-badge)](https://github.com/ramptix)
+
 The fast and easy-to-use LINE bot SDK. Focus on the content, we do the rest.
 
 It's (or it has):
