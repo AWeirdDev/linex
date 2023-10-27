@@ -1,8 +1,36 @@
-# LineX
+<div align="center">
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AWeirdScratcher/linex/assets/90096971/befa28f0-f5a5-4962-b58e-dd08c7cee002">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/AWeirdScratcher/linex/assets/90096971/a5687590-f8d3-4feb-b452-e405918c72c7">
+    <img alt="LineX By Ramptix" src="https://github.com/AWeirdScratcher/linex/assets/90096971/a5687590-f8d3-4feb-b452-e405918c72c7">
+</picture>
+
+<div><br /></div>
+
+The fast and easy-to-use LINE bot SDK. Focus on the content, we do the rest.
+
+<!-- CTA button -->
+
+<a href="/">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AWeirdScratcher/linex/assets/90096971/8b69a4f5-6c4b-410c-8f88-92cfe06a73a0" width="150">
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/AWeirdScratcher/linex/assets/90096971/ae2669a3-4b2c-4a14-929a-9b42caef3571" width="150">
+        <img alt="LineX By Ramptix" src="https://github.com/AWeirdScratcher/linex/assets/90096971/ae2669a3-4b2c-4a14-929a-9b42caef3571" width="150">
+    </picture>
+</a>
+
+<img
+    src="https://github.com/AWeirdScratcher/linex/assets/90096971/b435ae9a-a4d2-4689-a171-3978951983d7"
+    alt="pip install -U linex"
+    width="510"
+/>
 
 [![By Ramptix](https://img.shields.io/badge/%E2%AC%9C%20%E2%94%82%20By%20Ramptix-%23202020?style=for-the-badge)](https://github.com/ramptix)
 
-The fast and easy-to-use LINE bot SDK. Focus on the content, we do the rest.
+</div>
+
+## Features
 
 It's (or it has):
 
